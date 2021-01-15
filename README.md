@@ -6,7 +6,7 @@
 * [Features](#features)
 * [Code Examples](#code-examples)
 ## General info
- It is a simple backend project with list of books to read. 
+ It is a simple backend project with list of books to read and log in. 
  
  Part of the code is written in polish language.
  
@@ -21,7 +21,7 @@
 * Router
 * BodyParser
 ## Features
-The application is used to log user and add books that we want to read.
+The application is used to log user( with email and password) and add books that we want to read( with title, author and image).
 
 The crud is created in api/controllers/books.js , so we can create, read, update and delete books
 (the creation code is in the tab below).
