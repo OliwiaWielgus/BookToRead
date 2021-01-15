@@ -23,7 +23,7 @@
 ## Features
 The application is used to log user and add books that we want to read.
 
-The crud is created, so we can create, read, update and delete books
+The crud is created in api/controllers/books.js , so we can create, read, update and delete books
 (the creation code is in the tab below).
 
 If the user has logged in correctly or the book has been correctly added in postman, the action is saved in MongoDB.
