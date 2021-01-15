@@ -20,6 +20,7 @@
 * Multer
 * Router
 * BodyParser
+* Morgan
 ## Features
 The application is used to log user( with email and password) and add books that we want to read( with title, author and image).
 
